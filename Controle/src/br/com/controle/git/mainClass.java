@@ -2,7 +2,12 @@ package br.com.controle.git;
 
 public class mainClass {
 	
-	String nome;
+	private String nome;
 	int idade;
+	
+	public static void main (String[] args) {
+		
+		
+	}
 
 }
